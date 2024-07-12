@@ -1,1 +1,1 @@
-# CodSoft1
+# Python Calculator
